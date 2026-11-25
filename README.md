@@ -90,7 +90,7 @@ AdPulse helps identify:
 AdPulse-Advertising-Analytics/
 │
 ├── Dashboard/
-│   └── AdPulse.pbit
+│   └── ADpulse-2.0.pbix
 │
 ├── Dataset/
 │   └── advertising_data.csv
@@ -105,7 +105,7 @@ AdPulse-Advertising-Analytics/
 ## How to Explore
 
 1. Clone or download this repository.
-2. Open the `.pbix` / `.pbit` file using Microsoft Power BI Desktop.
+2. Open `Dashboard/ADpulse-2.0.pbix` using Microsoft Power BI Desktop.
 3. Explore the Executive Overview and Campaign Performance pages.
 4. Use interactive slicers to filter campaigns and months.
 5. Review the dataset and dashboard calculations.
