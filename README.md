@@ -12,7 +12,7 @@ The dashboard provides insights into campaign revenue, advertising costs, profit
 
 ### 1. Executive Overview
 
-![Executive Overview](Screenshots/executive-overview.png)
+![Executive Overview](Screenshots/executive-overview-v2.png)
 
 Provides a consolidated view of advertising performance through key metrics and visualizations.
 
@@ -27,7 +27,7 @@ Provides a consolidated view of advertising performance through key metrics and 
 
 ### 2. Campaign Performance & Optimization
 
-![Campaign Performance & Optimization](Screenshots/campaign-performance.png)
+![Campaign Performance & Optimization](Screenshots/campaign-performance-v2.png)
 
 Provides detailed analysis of campaign-level performance and efficiency.
 
@@ -96,8 +96,8 @@ AdPulse-Advertising-Analytics/
 │   └── advertising_data.csv
 │
 ├── Screenshots/
-│   ├── executive-overview.png
-│   └── campaign-performance.png
+│   ├── executive-overview-v2.png
+│   └── campaign-performance-v2.png
 │
 └── README.md
 ```
